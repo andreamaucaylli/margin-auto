@@ -1,0 +1,14 @@
+div{
+	border: 15px solid yellow;
+	width: 200px;
+	padding: 20px;
+}
+
+.son{
+	text-align: center;
+}
+
+.sister{
+	text-align: left;
+	margin-left: 500px;
+}
